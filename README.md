@@ -27,13 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-[VideoWalkthrough.gif](https://i.imgur.com/s91OZ9H.gifv)
-
-![Walk through](https://i.imgur.com/s91OZ9H.gifv)
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/RIYDDLS"><a href="//imgur.com/RIYDDLS"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
-<img src='https://imgur.com/a/RIYDDLS' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Walk through](https://github.com/ssandeep96/codepath_prework/blob/master/video%20walkthrough.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 

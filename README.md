@@ -27,6 +27,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+![Alt Text](https://imgur.com/a/RIYDDLS)
+
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/RIYDDLS"><a href="//imgur.com/RIYDDLS"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 <img src='https://imgur.com/a/RIYDDLS' title='Video Walkthrough' width='' alt='Video Walkthrough' />

@@ -27,6 +27,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+[VideoWalkthrough.gif](https://i.imgur.com/s91OZ9H.gifv)
+
 ![Walk through](https://imgur.com/a/RIYDDLS.gif)
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/RIYDDLS"><a href="//imgur.com/RIYDDLS"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
